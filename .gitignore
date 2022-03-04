@@ -3,6 +3,7 @@
 # Store launch config in repo but not settings
 .vscode/settings.json
 /.favorites.json
+.vs/
 
 # TypeScript incremental build states
 *.tsbuildinfo
